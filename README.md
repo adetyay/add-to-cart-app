@@ -1,2 +1,22 @@
 # add-to-cart-app
-mobile app
+---
+things i learned while making this project:
+- import
+- Firebase:
+    - initializeApp
+    - getDatabase
+    - reference
+    - push
+    - onValue
+    - snapshot
+    - remove
+- IDs
+- Object -> Array
+- createElement
+- Flexbox:
+    - flex-wrap
+    - gap
+- user-select
+- Setting the viewport
+- Favicon
+- Web Application Manifest
